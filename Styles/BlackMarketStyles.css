@@ -1,14 +1,15 @@
-body{
+body
+{
     font-family: Arial, Helvetica, sans-serif;
     background: #4A4A4A;
 }
 
 h1 
 {
-    color: white;    
+    color: white;
 }
 
-.ShopGridLayout
+.ShopGridLayout 
 {
     display: flex;
     flex-direction: row;
@@ -16,7 +17,8 @@ h1
     flex-wrap: wrap;
 }
 
-.ShopGridLayoutItem img {
+.ShopGridLayoutItem img 
+{
     width: 300px;
     height: 300px;
 }
@@ -29,7 +31,7 @@ h1
     height: 638px;
 }
 
-.ShopGridLayoutItem h5
+.ShopGridLayoutItem h5 
 {
     display: flex;
     font-size: 40px;
@@ -41,7 +43,7 @@ h1
     text-decoration: none;
 }
 
-.ShopGridLayoutItem p
+.ShopGridLayoutItem p 
 {
     display: flex;
     font-size: 40px;
