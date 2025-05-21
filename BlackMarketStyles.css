@@ -3,6 +3,11 @@ body{
     background: #4A4A4A;
 }
 
+h1 
+{
+    color: white;    
+}
+
 .ShopGridLayout
 {
     display: flex;
