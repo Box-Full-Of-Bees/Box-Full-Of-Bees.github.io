@@ -15,13 +15,13 @@ const data = [
 		name: 'Mushrooms',
 		altText: 'A linocut printed in prussian blue ink on ivory stock that features a collection of 5 mushrooms growing out of the ground in a cluster. There is minor chatter on the top potion of the print and a wide margin surrounding the print.',
 		imageRef: 'Images/Mushrooms.png',
-		quantity: '1',
+		quantity: 'Out of stock',
 	},
 	{
 		name: 'Catz',
 		altText: 'A linocut printed in black ink on white paper featuring a repeating pattern of small cats in a two by four grid of varying print qualities, all include moderate chatter.',
 		imageRef: 'Images/Catz.png',
-		quantity: '1 of 1',
+		quantity: 'Out of stock',
 	},
 	{
 		name: 'Bamboo Fountain',
@@ -65,7 +65,7 @@ const data = [
         name: 'Arcane Tome',
         altText: 'A linocut printed in charcoal gray ink on ivory stock depicting a schene of a mystical tome floating within a runic circle above a plinth nad in front of an obelisk with minor chatter throughout the negative space and wide margins surrounding the print.',
         imageRef: 'Images/Tome.png',
-        quantity: '3',
+        quantity: '2',
     },
 	{
         name: 'Weevil (black)',
@@ -83,7 +83,7 @@ const data = [
         name: 'Weevil (red)',
         altText: 'A linocut printed in warm red ink on ivory paper depicting a  a column of 3 lineart weevils lifting dumbbells in varying inking qualities. Print includes major chatter and wide margins on the left and right of the print.',
         imageRef: 'Images/WeevilRed.png',
-        quantity: '2',
+        quantity: '1',
     },
 ]
 
