@@ -5,7 +5,7 @@ const data = [
     { name: 'Catz', altText: '', imageRef: 'Images/Catz.png', quantity : '1 of 1', },
     { name: 'Bamboo Fountain', altText: '', imageRef: 'Images/BambooFountain.png', quantity : '2', },
     { name: 'Circles', title: 'Arcane Circles Print Reference Thumbnail', altText: '', imageRef: 'Images/Circles.png', quantity : '1', },
-    { name: 'Torch Creatures', title: 'Torch Creature Print Reference Thumbnail', altText: '', imageRef: 'Images/flames.png', quantity : '3', },
+    { name: 'Torch Creatures', title: 'Torch Creature Print Reference Thumbnail', altText: '', imageRef: 'Images/Flames.png', quantity : '3', },
     { name: 'Mirror', altText: '', imageRef: 'Images/Mirror.png', quantity : '1', },
     { name: 'Scary Faces', altText: '', imageRef: 'Images/ScaryFaces.png', quantity : '2', },
     { name: 'Spirals', altText: '', imageRef: 'Images/Spirals.png', quantity : '1 of 1', },
