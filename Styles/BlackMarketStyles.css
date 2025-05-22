@@ -10,12 +10,24 @@ h1
     color: white;
 }
 
+a:visited{
+    color: white;
+}
+
+.ShopPage
+{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
 .ShopGridLayout 
 {
     display: flex;
     flex-direction: row;
     padding: 10px;
     flex-wrap: wrap;
+    width: 90%;
 }
 
 .ShopGridLayoutItem img 
@@ -54,4 +66,44 @@ h1
     text-align: center;
     height: 90px;
     color: white;
+}
+
+.ShopGridButton button
+{
+    color: white;
+    background-color: #393939;
+    border: 1px solid lightgray;
+    display: flex;
+    height: 150px;
+    width: 300px;
+    font-size: 40px;
+    margin: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.NavMenu
+{
+    color: white;
+    background-color: #393939;
+    border: 1px solid lightgray;
+    display: flex;
+    width: 300px;
+    height: 90vh;
+}
+
+.NavMenu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.NavMenu li a {
+    display: block;
+    width: 280px;
+    padding: 10px;
+}
+
+.NavMenu li a:hover {
+    background-color: #555;
 }
