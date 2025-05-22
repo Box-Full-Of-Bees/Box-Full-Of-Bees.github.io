@@ -74,7 +74,7 @@ const data = [
         quantity: '1',
     },
 	{
-		name: 'Weevil (red)',
+		name: 'Magnolia',
 		altText: 'A linocut printed in black ink on white paper depicting a magnolia flower growing from the bottom right corner of a simple rectangular frame.',
 		imageRef: '../Images/Magnolia.png',
 		quantity: 'Not Yet',
