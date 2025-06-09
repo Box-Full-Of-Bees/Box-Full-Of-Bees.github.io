@@ -79,6 +79,36 @@ const data = [
 		imageRef: '../Images/Magnolia.png',
 		quantity: 'Not Yet',
 	},
+	{
+		name: 'Abstract',
+		altText: 'A linocut print in black ink on ivory paper featuring 2 sets of shapes separated by a winding line, the top part is a filled background with curved lines, and the bottom is a lined background.',
+		imageRef: '../Images/Abstract.png',
+		quantity: '3',
+	},
+	{
+		name: 'Hedgehog',
+		altText: 'A linocut printed in black ink on white paper depicting a hedgehog-like creature suspended inside of a rectangular frame. The image includes wide margins surrounding the print.',
+		imageRef: '../Images/Hedgehog.png',
+		quantity: '2',
+	},
+	{
+		name: 'Ginkgo Leaf',
+		altText: 'A linocut printed in black ink on white paper depicting a ginkgo leaf suspended inside of a rectangular frame with filled corners. The print inclused minor chatter in the negative space and wide margins surrounding the print.',
+		imageRef: '../Images/Ginkgo.png',
+		quantity: '2',
+	},
+	{
+		name: 'Fat Bee',
+		altText: 'A linocut printed in black ink on white paper depicting a bee like creature with considerable chatter surrounding the focus.',
+		imageRef: '../Images/FatBee.png',
+		quantity: 'At Request',
+	},
+	{
+		name: 'Fishes',
+		altText: 'A linocut printed in black ink on white paper depicting three fish shaped creatures of various sizes with considerable chatter surrounding the focus.',
+		imageRef: '../Images/Fish.png',
+		quantity: 'At Request',
+	},
 ]
 
 const list = document.querySelector('.ShopGridLayout')
