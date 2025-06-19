@@ -109,6 +109,18 @@ const data = [
 		imageRef: '../Images/Fish.png',
 		quantity: 'At Request',
 	},
+	{
+		name: 'Calla Lilies (Prussian Blue)',
+		altText: 'A prussian blue lino cut print on white paper featuring two carved calla lilies with rounded line hatching growing from the bottom right of a rectangular frame. The negative space has moderate chatter, and the print has wide margins surrounding it.',
+		imageRef: '../Images/Calla_Lilies.png',
+		quantity: '3',
+	},
+	{
+		name: 'Calla Lilies (Black)',
+		altText: 'A Black lino cut print on white paper featuring two carved calla lilies with rounded line hatching growing from the bottom right of a rectangular frame. The negative space has moderate chatter, and the print has wide margins surrounding it.',
+		imageRef: '../Images/Calla_Lilies_Black.png',
+		quantity: '3',
+	}
 ]
 
 const list = document.querySelector('.ShopGridLayout')
