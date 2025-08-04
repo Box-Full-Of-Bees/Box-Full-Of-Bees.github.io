@@ -120,7 +120,19 @@ const data = [
 		altText: 'A Black lino cut print on white paper featuring two carved calla lilies with rounded line hatching growing from the bottom right of a rectangular frame. The negative space has moderate chatter, and the print has wide margins surrounding it.',
 		imageRef: '../Images/Calla_Lilies_Black.png',
 		quantity: '3',
-	}
+	},
+	{
+		name: 'Japanese Anemone Flowers (Print in lavender on white)',
+		altText: 'A lavender linocut print on white stock featuring 2 Japanese Anemone flowers growing from the bottom left of a rectangular frame, on the bottom left of the block there is an unopened bud, and above the bud is one of the 2 flowers facing the left hand side of the frame, there is a large stem to the right of the bud with 2 leaves on the right side of the stem, and the stem leads to the larger flower facing the viewer and a series of buds surrounding it. The flowers feature petals with parallel wiggly lines. There is mild wavy vertical chatter in the negative space to the left of the carved image.',
+		imageRef: '../Images/anemone_White.png',
+		quantity: '4',
+	},
+	{
+		name: 'Japanese Anemone Flowers (Print in lavender on ivory)',
+		altText: 'A lavender linocut print on ivory stock featuring 2 Japanese Anemone flowers growing from the bottom left of a rectangular frame, on the bottom left of the block there is an unopened bud, and above the bud is one of the 2 flowers facing the left hand side of the frame, there is a large stem to the right of the bud with 2 leaves on the right side of the stem, and the stem leads to the larger flower facing the viewer and a series of buds surrounding it. The flowers feature petals with parallel wiggly lines. There is mild wavy vertical chatter in the negative space to the left of the carved image.',
+		imageRef: '../Images/anemone_Ivory.png',
+		quantity: '4',
+	},
 ]
 
 const list = document.querySelector('.ShopGridLayout')
