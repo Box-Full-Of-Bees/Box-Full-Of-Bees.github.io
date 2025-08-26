@@ -133,6 +133,18 @@ const data = [
 		imageRef: '../Images/anemone_Ivory.png',
 		quantity: '4',
 	},
+	{
+		name: 'Mandevilla Flowers (Print on mulberry paper)',
+		altText: 'A black linocut print on sheer mulberry paper featuring a mandevilla flower in a rectangular frame. The flower sits in the foreground atop a stem leading to 4 buds to the upper left of the flower, as well as a single small leaf to the upper right of the flower. The flower also sits in front of 2 large overlapping leaves to the left pointing towards the upper left corner of the frame, these leaves also cover a second stem that extends from the top of the frame to the bottom, and ends in 2 buds. The flower in the foreground also covers 3 smaller overlapping leaves in the bottom right of the frame, the bottom most of is fading into the frame. The flower itself features 6 overlapping petals each covered in concentric arc-like lines leading towards the center of the flower. The petals terminate in the center of the flower where a series of marks expanding from the center point give the impression of an explosion or hole where the terminus of the petals would be.',
+		imageRef: '../Images/Mandevilla_mulberry.png',
+		quantity: '1',
+	},
+	{
+		name: 'Mandevilla Flowers (Print on ivory)',
+		altText: 'A black linocut print on ivory stock featuring a mandevilla flower in a rectangular frame. The flower sits in the foreground atop a stem leading to 4 buds to the upper left of the flower, as well as a single small leaf to the upper right of the flower. The flower also sits in front of 2 large overlapping leaves to the left pointing towards the upper left corner of the frame, these leaves also cover a second stem that extends from the top of the frame to the bottom, and ends in 2 buds. The flower in the foreground also covers 3 smaller overlapping leaves in the bottom right of the frame, the bottom most of is fading into the frame. The flower itself features 6 overlapping petals each covered in concentric arc-like lines leading towards the center of the flower. The petals terminate in the center of the flower where a series of marks expanding from the center point give the impression of an explosion or hole where the terminus of the petals would be.',
+		imageRef: '../Images/Mandevilla_Ivory.png',
+		quantity: 'At Request',
+	},
 ]
 
 const list = document.querySelector('.ShopGridLayout')
